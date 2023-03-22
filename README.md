@@ -25,11 +25,11 @@
 <!-- Social icons section -->
 <br>
 <p align="center">
-  <a href="https://upwork.com/fl/~01b9d05fd22bce52b8" target="_blank"><img width="30px" alt="Twitter" title="Twitter" src="./icons/upwork.png"/></a>
+  <a href="https://upwork.com/fl/~01b9d05fd22bce52b8" target="_blank"><img width="30px" alt="My Portfolio on Upwork" title="Upwork" src="./icons/upwork.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fiverr.com/dev_yousaf" target="_blank"><img width="38px" alt="Twitter" title="Twitter" src="./icons/fiverr.png"/></a>
+  <a href="https://fiverr.com/dev_yousaf" target="_blank"><img width="38px" alt="My Portfolio on Fiverr" title="Fiverr" src="./icons/fiverr.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:myousafdev@gmail.com" target="_blank"><img width="32px" src="./icons/Gmail.png"/></a>
+  <a href="mailto:myousafdev@gmail.com" target="_blank"><img width="32px" src="./icons/Gmail.png" alt="Gmail"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/yousafsabir" target="_blank"><img width="32px" alt="LinkedIn" src="./icons/LinkedIn.png"></a>
 </p>
