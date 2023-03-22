@@ -1,12 +1,21 @@
 <!-- Profile Widget -->
 <a href="https://github.com/yousafsabir">
-    <img height=auto width=100% src="https://github-widgetbox.vercel.app/api/profile?username=yousafsabir&data=followers,repositories,stars,commits&theme=darkmode">
+    <img height=auto width=100% src="https://github-widgetbox.vercel.app/api/profile?username=yousafsabir&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
 <!-- -------------- -->
 
+<!-- Typing Widget -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff9a0c&vCenter=true&size=22&pause=1000">
 </p>
+<!-- ------------- -->
+
+<!-- Bio -->
+<div>
+  <h4>
+  I am an experienced full-stack web developer with expertise in Reactjs, Nextjs, and Nodejs. I am a Level 1 Seller on Fiverr and Rising Talent on Upwork. I aim to build applications that are scalable, performant, and reach potential clients. I keep learning, continue equipping myself with new skills, and sharpening my existing skills. I prefer to challenge myself and do interesting things that matter.
+  </h4>
+</div>
 
 <!-- Social icons section -->
 <p align="center">
