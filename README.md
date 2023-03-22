@@ -29,11 +29,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://fiverr.com/dev_yousaf" target="_blank"><img width="38px" alt="Twitter" title="Twitter" src="./icons/fiverr.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/yousafsabir7" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="./icons/icons8-twitter-2.png"/></a>
+  <a href="mailto:myousafdev@gmail.com" target="_blank"><img width="32px" src="./icons/Gmail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/yousafsabir7" target="_blank"><img width="32px" src="./icons/icons8-instagram-2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/yousafsabir" target="_blank"><img width="32px" alt="LinkedIn" src="./icons/icons8-linkedin-2.png"></a>
+  <a href="https://linkedin.com/in/yousafsabir" target="_blank"><img width="32px" alt="LinkedIn" src="./icons/LinkedIn.png"></a>
 </p>
 
 <!-- quote -->
