@@ -1,3 +1,6 @@
+<!-- this README is inspired by the great efforts of Umer Ahmad. Shot out to him -->
+<!-- His Github Profile: https://github.com/imumer16 -->
+
 <!-- Profile Widget -->
 <!-- reference = https://github.com/Jurredr/github-widgetbox -->
 <a href="https://github.com/yousafsabir">
@@ -13,13 +16,14 @@
 <!-- ------------- -->
 
 <!-- Bio -->
-<div>
-  <h4>
+<div align="center">
+  <h4 width=50%>
   I am an experienced full-stack web developer with expertise in Reactjs, Nextjs, and Nodejs. I am a Level 1 Seller on Fiverr and Rising Talent on Upwork. I aim to build applications that are scalable, performant, and reach potential clients. I keep learning, continue equipping myself with new skills, and sharpening my existing skills. I prefer to challenge myself and do interesting things that matter.
   </h4>
 </div>
 
 <!-- Social icons section -->
+<br>
 <p align="center">
   <a href="https://twitter.com/yousafsabir7" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="./icons/icons8-twitter-2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -30,13 +34,35 @@
 
 <!-- quote -->
 <!-- reference = https://github.com/PiyushSuthar/github-readme-quotes -->
+<br>
+<hr>
+<br>
 <div align="center">
   <a href="https://github.com/yousafsabir">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
   </a>
 </div>
 
 
-### My Github Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yousafsabir&show_icons=true&include_all_commits=true&hide_border=true&title_color=796ef9&icon_color=ff9a0c&bg_color=fedada" alt="Yousaf's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafsabir&hide=batchfile&layout=compact&title_color=ff9a0c&bg_color=c6e6f9&hide_border=true" /> |
-| ------------- | ------------- |
+<!-- SVG typing for tech stack -->
+<!-- reference = https://github.com/DenverCoder1/readme-typing-svg -->
+<br>
+<hr>	
+<br>
+<div align="center">
+  <a href="https://github.com/imumer16">
+    <img width="50%"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=TechStack;Technologies;Libraries;Frameworks;Databases;Design Tools" alt="Typing SVG" />
+  </a>
+</div>
+
+
+<!-- tech stack -->
+<!-- reference = https://github.com/tandpfun/skill-icons -->
+<br>
+<div align="center">
+  <a href="https://github.com/imumer16">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
+  </a>
+</div>
+
+<br>
