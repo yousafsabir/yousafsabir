@@ -1,16 +1,12 @@
-<h1 align="center">Hi there 👋, Myself M.Yousaf</h1>
-
-<h2 align="center">I'm a</h2>
+<!-- Profile Widget -->
+<a href="https://github.com/yousafsabir">
+    <img height=auto width=100% src="https://github-widgetbox.vercel.app/api/profile?username=yousafsabir&data=followers,repositories,stars,commits&theme=darkmode">
+</a>
+<!-- -------------- -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ff9a0c&vCenter=true&size=22&pause=1000">
 </p>
-
-<div align="center">
-  <a href="https://github.com/yousafsabir">
-    <img height=auto width=50% src="https://github-widgetbox.vercel.app/api/profile?username=yousafsabir&data=followers,repositories,stars,commits&theme=darkmode">
-  </a>
-</div>
 
 <!-- Social icons section -->
 <p align="center">
