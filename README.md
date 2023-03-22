@@ -50,8 +50,8 @@
 <hr>	
 <br>
 <div align="center">
-  <a href="https://github.com/imumer16">
-    <img width="50%"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=TechStack;Technologies;Libraries;Frameworks;Databases;Design Tools" alt="Typing SVG" />
+  <a href="https://github.com/yousafsabir">
+    <img width="50%"  src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=F5F5F6&center=true&width=435&lines=TechStack;Technologies;Libraries;Frameworks;Databases;Design%20Tools&height=45" alt="Typing SVG" />
   </a>
 </div>
 
@@ -60,7 +60,7 @@
 <!-- reference = https://github.com/tandpfun/skill-icons -->
 <br>
 <div align="center">
-  <a href="https://github.com/imumer16">
+  <a href="https://github.com/yousafsabir">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
   </a>
 </div>
