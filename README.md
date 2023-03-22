@@ -25,6 +25,10 @@
 <!-- Social icons section -->
 <br>
 <p align="center">
+  <a href="https://upwork.com/fl/~01b9d05fd22bce52b8" target="_blank"><img width="30px" alt="Twitter" title="Twitter" src="./icons/upwork.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://fiverr.com/dev_yousaf" target="_blank"><img width="38px" alt="Twitter" title="Twitter" src="./icons/fiverr.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/yousafsabir7" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="./icons/icons8-twitter-2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/yousafsabir7" target="_blank"><img width="32px" src="./icons/icons8-instagram-2.png"/></a>
