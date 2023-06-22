@@ -18,7 +18,7 @@
 <!-- Bio -->
 <div align="center">
   <h4 width=50%>
-  I am an experienced full-stack web developer with expertise in Reactjs, Nextjs, and Nodejs. I am a Level 1 Seller on Fiverr and Rising Talent on Upwork. I aim to build applications that are scalable, performant, and reach potential clients. I keep learning, continue equipping myself with new skills, and sharpening my existing skills. I prefer to challenge myself and do interesting things that matter.
+  I am a Full-Stack Software Engineer with expertise around web-based technologies like Reactjs, Nextjs, and Nodejs. I also do backend development in Python mainly Fastapi. I am a Level 1 Seller on Fiverr and Rising Talent on Upwork. I aim to build applications that are scalable, performant, and reach potential clients. I keep learning, continue equipping myself with new skills, and sharpening my existing skills. I prefer to challenge myself and do interesting things that matter.
   </h4>
 </div>
 
