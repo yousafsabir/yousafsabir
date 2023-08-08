@@ -25,7 +25,7 @@
 <!-- Social icons section -->
 <br>
 <p align="center">
-  <a href="https://upwork.com/fl/~01b9d05fd22bce52b8" target="_blank"><img width="30px" alt="My Portfolio on Upwork" title="My Portfolio on Upwork" src="./icons/upwork.png"/></a>
+  <a href="https://upwork.com/fl/yousafsabir" target="_blank"><img width="30px" alt="My Portfolio on Upwork" title="My Portfolio on Upwork" src="./icons/upwork.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://fiverr.com/dev_yousaf" target="_blank"><img width="38px" alt="My Portfolio on Fiverr" title="My Portfolio on Fiverr" src="./icons/fiverr.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
